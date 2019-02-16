@@ -23,3 +23,9 @@
 * SLIRP - https://github.com/Manawyrm/slirpNG/blob/master/docs/slirp.doc    SLIP Provider
 
 # Call authentication setup proposal: https://github.com/bitpay/bitcore-ecies
+
+Multiplatform Soundcard Packet Radio Modem
+http://soundmodem.vk4msl.id.au/
+
+MINI Modem 
+http://www.whence.com/minimodem/
