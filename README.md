@@ -8,3 +8,18 @@
 
 # PBX Coin Research
 * https://support.usr.com/support/3cxm756/3cxm756-ug/atcoms.htm
+
+# SIP Research Articles
+* SIP Express Router - used by Internet Telephony Service Providers, call setup
+* BLISS is name for best practices in SIP Community, revolving protocol.
+* SIPConnect1.1 is another standard for the SIP protocol
+* SIP is RFC 3261
+8 oSIP Library 
+
+
+# SIP Software Projects of Interest
+* https://github.com/fonoster/routr
+* Curated list of SIP Projects: https://github.com/QXIP/awesome-voip-rtc
+* SLIRP - https://github.com/Manawyrm/slirpNG/blob/master/docs/slirp.doc    SLIP Provider
+
+# Call authentication setup proposal: https://github.com/bitpay/bitcore-ecies
