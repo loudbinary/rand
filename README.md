@@ -29,3 +29,6 @@ http://soundmodem.vk4msl.id.au/
 
 MINI Modem 
 http://www.whence.com/minimodem/
+
+Protocol Math - 3 voices calls, over 2 modems connected
+https://community.freepbx.org/t/freepbx-over-a-56k-connection-to-a-remote-extension-is-it-technically-possible/18293
