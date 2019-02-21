@@ -45,7 +45,13 @@ WEBRTC
     
 Messaging Bus:
 * https://bitsocket.org/examples
-* 
+* https://bitcom.bitdb.network/#/?id=bitcom
+* https://github.com/21centurymotorcompany/bitsocketd
+* https://bitdb.network/
 
 BSV Articles:
 * https://github.com/monkeylord/awesome-bitcoin-sv
+* https://chronos.bitdb.network/query/1P6o45vqLdo6X8HRCZk8XuDsniURmXqiXo/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogewogICAgICAiaW4uZS5hIjogIjE4OFBMSHZLTmFFV0hWWlpGclgyM21hdzVUdHNubWdTU0UiLAogICAgICAib3V0LnMxIjogIiQiCiAgICB9LAogICAgInNvcnQiOiB7CiAgICAgICJ0aW1lc3RhbXAiOiAxCiAgICB9LAogICAgImxpbWl0IjogMTAKICB9LAogICJyIjogewogICAgImYiOiAiWy5bXSB8IHtjbWQ6IFwiXFwoLm91dFswXS5zMSkgXFwoLm91dFswXS5zMikgXFxcIlxcKC5vdXRbMF0uczMpXFxcIiBcXCgub3V0WzBdLnM0KSBcXCgub3V0WzBdLnM1KVwiLCB0aW1lYWdvOiAudGltZWFnb31dIgogIH0KfQ==
+* https://github.com/simpleledgerinc/BitcoinFilesJS
+* 
+
