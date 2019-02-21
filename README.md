@@ -39,6 +39,10 @@ Voice to Voice Examples:
     -- https://serialport.io/docs/en/api-parser-slip-encoder
     -- https://hub.docker.com/r/akshmakov/serialport-server/
     
+WEBRTC 
+ * Securing the sessions and webrtc: http://webrtc-security.github.io/
+ 
+    
 Messaging Bus:
 * https://bitsocket.org/examples
 * 
