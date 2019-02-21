@@ -38,3 +38,10 @@ Voice to Voice Examples:
   * Docker'fied serial to serial: 
     -- https://serialport.io/docs/en/api-parser-slip-encoder
     -- https://hub.docker.com/r/akshmakov/serialport-server/
+    
+Messaging Bus:
+* https://bitsocket.org/examples
+* 
+
+BSV Articles:
+* https://github.com/monkeylord/awesome-bitcoin-sv
