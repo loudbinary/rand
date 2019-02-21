@@ -32,3 +32,9 @@ http://www.whence.com/minimodem/
 
 Protocol Math - 3 voices calls, over 2 modems connected
 https://community.freepbx.org/t/freepbx-over-a-56k-connection-to-a-remote-extension-is-it-technically-possible/18293
+
+Voice to Voice Examples:
+  * Streaming voice to audi via sockets in browser: https://github.com/ScarletsFiction/SFMediaStream
+  * Docker'fied serial to serial: 
+    -- https://serialport.io/docs/en/api-parser-slip-encoder
+    -- https://hub.docker.com/r/akshmakov/serialport-server/
